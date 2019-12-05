@@ -27,5 +27,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "cowsay": "^1.4.0"
   }
 }
